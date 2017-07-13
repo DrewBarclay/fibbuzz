@@ -5,6 +5,7 @@ To run,
 `
 stack build 
 `
+
 `
 stack exec fibbuzz -- <number of fibonacci numbers to generate>
 `
