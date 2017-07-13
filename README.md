@@ -4,10 +4,10 @@ To run,
 
 ```
 stack build 
-stack exec fibbuzz -- <number of fibonacci numbers to generate>
+stack exec fibbuzz -- <number of Fibonacci numbers to generate>
 ```
 
-For example, for the first 10 fibonacci numbers, run `stack exec fibbuzz -- 10`.
+For example, for the first 10 Fibonacci numbers, run `stack exec fibbuzz -- 10`.
 
 Documentation available with `stack haddock`.
 
