@@ -2,13 +2,10 @@
 
 To run, 
 
-`
+```
 stack build 
-`
-
-`
 stack exec fibbuzz -- <number of fibonacci numbers to generate>
-`
+```
 
 For example, for the first 10 fibonacci numbers, run `stack exec fibbuzz -- 10`.
 
