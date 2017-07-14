@@ -9,7 +9,7 @@ stack exec fibbuzz -- <number of Fibonacci numbers to generate>
 
 For example, for the first 10 Fibonacci numbers, run `stack exec fibbuzz -- 10`.
 
-Documentation available with `stack haddock`.
+Documentation available with `stack haddock`. Tests are run with `stack test`.
 
 # Question
 The [question](https://github.com/swift-nav/screening_questions/blob/master/questions.md#swift-navigation-application-questions) is: 
